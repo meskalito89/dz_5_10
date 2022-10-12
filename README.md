@@ -3,14 +3,15 @@
 
 В качестве ответа отправьте файл со скриптом и последние три строки файла /etc/passwd.
 
-users.txt
-user_1 #пользователь бухгалтерии
-user_2 #пользователь техподдержки
-user_3 #пользователь отдела кадров
-pass.txt
-user_1:123456
-user_2:654321
-user_3:098765
+users.txt  
+user_1 #пользователь бухгалтерии  
+user_2 #пользователь техподдержки  
+user_3 #пользователь отдела кадров  
 
-Greetings!
-Hello "username", it nice to meet you!
+pass.txt  
+user_1:123456  
+user_2:654321  
+user_3:098765  
+
+Greetings!  
+Hello "username", it nice to meet you!  
