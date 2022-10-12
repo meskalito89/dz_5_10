@@ -1,6 +1,7 @@
 #!/bin/bash
 
 
+
 if [[ -f $1 ]]; then 
     USER_FILE=$1
 else
@@ -17,6 +18,4 @@ fi
 
 if [[ -f $USER_FILE  && -f $PASS_FILE ]]; then
     echo 'asdf'
-else
-    echo 'ERROR'
 fi
